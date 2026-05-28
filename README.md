@@ -340,8 +340,6 @@ class Config:
     ├── tft_b_best.ckpt                   # Model B 최적 체크포인트
     ├── stacking_c.pkl                    # Model C Stacking 모델
     └── scaler_c.pkl                      # Model C RobustScaler
-
-
 ```
 
 ---
